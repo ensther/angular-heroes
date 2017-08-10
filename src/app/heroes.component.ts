@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 
 import { Hero } from './hero';
-import { Owner } from './owner';
 
 import { HeroService } from './hero.service';
 
